@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin Kucin</h1>
 <h3 align="center">A DevOps Engineer with passion for automation and hacking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mart-kuc" alt="mart-kuc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mart-kuc&theme=onedark" alt="mart-kuc" /></a> </p>
+
+
 
 - 🔭 I’m currently working on [Summary Financial Articles](https://sfa.analyticalplatform.com/#/feed)
 
