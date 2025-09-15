@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **K8S, Terraform, Helm, Docker, Linux, AWS**
 
-- 📫 How to reach me **xkucin1@mendelu.cz**
+- 📫 How to reach me **martin@kucin.cz**
 
 - 📄 Know about my experiences [https://www.beeit.cz/](https://www.beeit.cz/)
 
